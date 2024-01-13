@@ -69,6 +69,8 @@
 
 [![ArtEmerged's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ArtEmerged&theme=dark)](https://github.com/ArtEmerged/leetcode-stats)
 
+---
+
 ### ⚙️ GitHub статистика:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtEmerged&show_icons=true&theme=dark)
